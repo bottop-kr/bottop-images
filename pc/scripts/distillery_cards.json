@@ -1,0 +1,949 @@
+[
+ {
+  "key": "달모어",
+  "aliases": [
+   "달모어",
+   "dalmore"
+  ],
+  "wiki_title": "Dalmore distillery",
+  "url": "https://en.wikipedia.org/wiki/Dalmore_distillery",
+  "summary_ko": "1839년 알렉산더 매시선이 스코틀랜드 하이랜드 앨니스의 크로마티 만 연안에 세운 증류소다. 1867년 인수한 매켄지 형제가 12갈래 뿔의 수사슴 문장을 도입했다. 현재 필리핀 얼라이언스 글로벌 산하 화이트앤매카이가 소유한다.",
+  "founded": "1839",
+  "region": "스코틀랜드 하이랜드",
+  "owner": "Whyte & Mackay (Alliance Global)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌피딕",
+  "aliases": [
+   "글렌피딕",
+   "glenfiddich"
+  ],
+  "wiki_title": "Glenfiddich",
+  "url": "https://en.wikipedia.org/wiki/Glenfiddich",
+  "summary_ko": "1886년 윌리엄 그랜트가 스코틀랜드 스페이사이드 더프타운에 세운 싱글몰트 증류소다. 이름은 게일어로 '사슴의 계곡'을 뜻한다. 윌리엄 그랜트 앤 선즈가 소유한다.",
+  "founded": "1886",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "William Grant & Sons",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "잭다니엘",
+  "aliases": [
+   "잭다니엘",
+   "jack",
+   "젠틀맨"
+  ],
+  "wiki_title": "Jack Daniel's",
+  "url": "https://en.wikipedia.org/wiki/Jack_Daniel%27s",
+  "summary_ko": "재스퍼 뉴턴 '잭' 대니얼이 미국 테네시주 린치버그에서 시작한 테네시 위스키 브랜드로, 등록 문서상 설립은 1875년이다. 사탕단풍 숯으로 거르는 링컨 카운티 공정을 거치며, 대표 제품은 올드 넘버 7이다. 1956년부터 브라운포맨이 소유한다.",
+  "founded": "1875",
+  "region": "미국 테네시",
+  "owner": "Brown-Forman",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "카발란",
+  "aliases": [
+   "카발란",
+   "kavalan"
+  ],
+  "wiki_title": "Kavalan Distillery",
+  "url": "https://en.wikipedia.org/wiki/Kavalan_Distillery",
+  "summary_ko": "2005년 대만 이란현 위안산향에 세워진 대만 최초의 위스키 증류소로, 킹카 그룹이 소유한다. 2015년 솔리스트 비뉴 바리크가 월드 위스키 어워드에서 세계 최고 싱글몰트로 선정됐다.",
+  "founded": "2005",
+  "region": "대만 이란현",
+  "owner": "King Car Group",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌파클라스",
+  "aliases": [
+   "글렌파클라스",
+   "glenfarclas"
+  ],
+  "wiki_title": "Glenfarclas distillery",
+  "url": "https://en.wikipedia.org/wiki/Glenfarclas_distillery",
+  "summary_ko": "스코틀랜드 스페이사이드 밸린달록에 있는 증류소로, 1836년 처음 면허를 받았다. 1865년 존 그랜트가 인수한 뒤 그랜트 가문이 독립적으로 운영하고 있다. 셰리 캐스크 영향이 강한 스타일이며 스페이사이드에서 가장 큰 증류기를 쓴다.",
+  "founded": "1836",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "J. & G. Grant (그랜트 가문)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "조니워커",
+  "aliases": [
+   "조니워커",
+   "johnnie"
+  ],
+  "wiki_title": "Johnnie Walker",
+  "url": "https://en.wikipedia.org/wiki/Johnnie_Walker",
+  "summary_ko": "1820년 존 워커가 스코틀랜드 킬마녹의 식료품점에서 시작한 블렌디드 스카치 브랜드다. 레드·블랙·블루 라벨 등 여러 등급으로 나온다. 현재 디아지오가 소유한다.",
+  "founded": "1820",
+  "region": "스코틀랜드 킬마녹",
+  "owner": "Diageo",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "로얄살루트",
+  "aliases": [
+   "로얄살루트",
+   "rs",
+   "rs21"
+  ],
+  "wiki_title": "Royal Salute (whisky)",
+  "url": "https://en.wikipedia.org/wiki/Royal_Salute_(whisky)",
+  "summary_ko": "1953년 엘리자베스 2세 대관식 날 헌정 의미로 출시된 블렌디드 스카치로, 이름은 21발 예포에서 따왔다. 모든 제품이 최소 21년 이상 숙성되며 스페이사이드의 스트라스아일라 증류소에서 생산된다. 페르노리카 산하 시바스 브라더스가 소유한다.",
+  "founded": "1953",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Chivas Brothers (Pernod Ricard)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "발렌타인",
+  "aliases": [
+   "발렌타인",
+   "ballantine's",
+   "ballantines"
+  ],
+  "wiki_title": "Ballantine's",
+  "url": "https://en.wikipedia.org/wiki/Ballantine%27s",
+  "summary_ko": "1827년 조지 밸런타인이 에든버러에서 연 식료품점에 뿌리를 둔 블렌디드 스카치 브랜드다. 밀튼더프와 글렌버기 몰트가 핵심 원액이다. 2005년부터 페르노리카 산하 시바스 브라더스가 소유한다.",
+  "founded": "1827",
+  "region": "스코틀랜드",
+  "owner": "Chivas Brothers (Pernod Ricard)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "발베니",
+  "aliases": [
+   "발베니",
+   "balvenie"
+  ],
+  "wiki_title": "Balvenie distillery",
+  "url": "https://en.wikipedia.org/wiki/Balvenie_distillery",
+  "summary_ko": "1892년 윌리엄 그랜트의 계획으로 스코틀랜드 스페이사이드 더프타운에 지어져 1893년 첫 증류를 시작했다. 자체 플로어 몰팅 시설을 갖춘 몇 안 되는 증류소이며, 데이비드 스튜어트가 캐스크 피니싱을 개척한 곳으로 알려져 있다. 윌리엄 그랜트 앤 선즈가 소유한다.",
+  "founded": "1892",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "William Grant & Sons",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌알라키",
+  "aliases": [
+   "글렌알라키",
+   "glenallachie"
+  ],
+  "wiki_title": "GlenAllachie distillery",
+  "url": "https://en.wikipedia.org/wiki/Glenallachie_distillery",
+  "summary_ko": "1967년 스코틀랜드 스페이사이드 에이버라워 인근 벤 리네스 기슭에 세워졌다. 원래 블렌디드용 원액을 주로 만들었으나, 2017년 빌리 워커 등이 시바스 브라더스로부터 인수한 뒤 싱글몰트 브랜드로 재출범했다. 현재 독립 소유 증류소다.",
+  "founded": "1967",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "The GlenAllachie Distillers Company Limited",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "시바스리갈",
+  "aliases": [
+   "시바스리갈",
+   "chivas"
+  ],
+  "wiki_title": "Chivas Regal",
+  "url": "https://en.wikipedia.org/wiki/Chivas_Regal",
+  "summary_ko": "1909년 시바스 브라더스의 마스터 블렌더 찰스 스튜어트 하워드가 25년 숙성 고급 위스키로 처음 만든 블렌디드 스카치다. 스페이사이드 스트라스아일라 증류소가 생산 중심지다. 페르노리카 산하 시바스 브라더스가 소유한다.",
+  "founded": "1909",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Chivas Brothers (Pernod Ricard)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "보모어",
+  "aliases": [
+   "보모어",
+   "bowmore"
+  ],
+  "wiki_title": "Bowmore distillery",
+  "url": "https://en.wikipedia.org/wiki/Bowmore_distillery",
+  "summary_ko": "1779년 설립된 것으로 전해지는 아일라섬에서 가장 오래된 가동 증류소로, 인달 만 남동쪽 해안에 있다. 1994년 산토리가 인수해 현재 산토리 글로벌 스피리츠 산하 모리슨 보모어 디스틸러스가 소유한다.",
+  "founded": "1779",
+  "region": "스코틀랜드 아일라",
+  "owner": "Suntory Global Spirits (Morrison Bowmore Distillers)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "브룩라디",
+  "aliases": [
+   "브룩라디",
+   "bruichladdich",
+   "옥토모어",
+   "octomore",
+   "포트샬롯",
+   "port charlotte"
+  ],
+  "wiki_title": "Bruichladdich Distillery",
+  "url": "https://en.wikipedia.org/wiki/Bruichladdich_distillery",
+  "summary_ko": "1881년 하비 형제가 아일라섬 린스 지역 인달 만 연안에 세웠다. 1994년 폐쇄됐다가 2001년 재가동했으며, 2012년 레미 쿠앵트로가 인수했다. 논피트 브룩라디, 헤비 피트 포트샬롯, 초고피트 옥토모어를 생산한다.",
+  "founded": "1881",
+  "region": "스코틀랜드 아일라",
+  "owner": "Rémy Cointreau",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "듀어스",
+  "aliases": [
+   "듀어스",
+   "dewars",
+   "dewar's"
+  ],
+  "wiki_title": "Dewar's",
+  "url": "https://en.wikipedia.org/wiki/Dewar%27s",
+  "summary_ko": "1846년 존 듀어가 시작한 블렌디드 스카치 브랜드로, 블렌딩 후 오크통에서 다시 숙성하는 '매링' 공정을 선도했다. 1899년 탄생한 화이트 라벨이 대표 제품이며, 1998년부터 바카디가 소유한다.",
+  "founded": "1846",
+  "region": "스코틀랜드",
+  "owner": "Bacardi",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "부쉬밀",
+  "aliases": [
+   "부쉬밀",
+   "bushmills"
+  ],
+  "wiki_title": "Old Bushmills Distillery",
+  "url": "https://en.wikipedia.org/wiki/Old_Bushmills_Distillery",
+  "summary_ko": "1784년 북아일랜드 앤트림주 부시밀스에 설립된 아이리시 위스키 증류소다. 라벨의 1608년은 이 지역에 내려진 증류 면허 연도에서 유래한다. 블렌디드와 싱글몰트를 생산하며, 2014년부터 프록시모 스피리츠가 소유한다.",
+  "founded": "1784",
+  "region": "북아일랜드 앤트림",
+  "owner": "Proximo Spirits",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "주라",
+  "aliases": [
+   "주라",
+   "jura"
+  ],
+  "wiki_title": "Jura distillery",
+  "url": "https://en.wikipedia.org/wiki/Jura_distillery",
+  "summary_ko": "1810년 주라섬 영주 아치볼드 캠벨이 스코틀랜드 서해안 이너헤브리디스의 주라섬에 세운 증류소다. 한때 해체됐다가 1950~60년대에 재건됐다. 2014년부터 엠페라도르 디스틸러스가 소유하고 화이트앤매카이가 운영한다.",
+  "founded": "1810",
+  "region": "스코틀랜드 아일랜즈(주라섬)",
+  "owner": "Emperador Distillers Inc (Alliance Global)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌리벳",
+  "aliases": [
+   "글렌리벳",
+   "glenlivet"
+  ],
+  "wiki_title": "The Glenlivet distillery",
+  "url": "https://en.wikipedia.org/wiki/The_Glenlivet_distillery",
+  "summary_ko": "1824년 조지 스미스가 스코틀랜드 스페이사이드 밸린달록 인근에 세웠으며, 1823년 소비세법에 따라 합법 면허를 처음 받은 증류소로 알려져 있다. 페르노리카 산하 시바스 브라더스가 소유한다.",
+  "founded": "1824",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Chivas Brothers (Pernod Ricard)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "블라드녹",
+  "aliases": [
+   "블라드녹",
+   "bladnoch"
+  ],
+  "wiki_title": "Bladnoch distillery",
+  "url": "https://en.wikipedia.org/wiki/Bladnoch_distillery",
+  "summary_ko": "1817년 매클렐런드 형제가 스코틀랜드 남서부 덤프리스 갤러웨이의 블라드녹에 세운 로우랜드 증류소로, 스코틀랜드 최남단 위스키 증류소다. 여러 차례 폐쇄와 재가동을 거쳤으며, 2015년 호주 사업가 데이비드 프라이어가 인수했다.",
+  "founded": "1817",
+  "region": "스코틀랜드 로우랜드",
+  "owner": "David Prior",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "라프로익",
+  "aliases": [
+   "라프로익",
+   "laphroaig"
+  ],
+  "wiki_title": "Laphroaig distillery",
+  "url": "https://en.wikipedia.org/wiki/Laphroaig_distillery",
+  "summary_ko": "1815년 존스턴 형제가 아일라섬 남쪽 해안 포트엘렌 인근에 세운 증류소로, 피트 향이 강한 스타일로 알려져 있다. 보리 일부를 아일라 피트로 직접 몰팅하며, 1994년 웨일스 공의 왕실 인증을 받았다. 산토리 글로벌 스피리츠가 소유한다.",
+  "founded": "1815",
+  "region": "스코틀랜드 아일라",
+  "owner": "Suntory Global Spirits",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "벤리악",
+  "aliases": [
+   "벤리악",
+   "benriach"
+  ],
+  "wiki_title": "BenRiach distillery",
+  "url": "https://en.wikipedia.org/wiki/BenRiach_distillery",
+  "summary_ko": "1898년 존 더프가 스코틀랜드 스페이사이드 엘긴 남쪽에 세운 증류소다. 약 1900년 생산이 중단됐다가 1965년 재가동했고, 여러 소유주를 거쳐 2016년 브라운포맨에 매각됐다. 일반 제품과 스모키 제품을 함께 낸다.",
+  "founded": "1898",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Brown-Forman",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌그란트",
+  "aliases": [
+   "글렌그란트",
+   "glen grant"
+  ],
+  "wiki_title": "Glen Grant distillery",
+  "url": "https://en.wikipedia.org/wiki/Glen_Grant_distillery",
+  "summary_ko": "1840년 존 그랜트와 제임스 그랜트 형제가 스페이사이드 로시스에 세운 싱글 몰트 증류소다. 현재 캄파리 그룹이 소유하고 있다.",
+  "founded": "1840",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Campari Group",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌모렌지",
+  "aliases": [
+   "글렌모렌지",
+   "glenmorangie"
+  ],
+  "wiki_title": "Glenmorangie distillery",
+  "url": "https://en.wikipedia.org/wiki/Glenmorangie_distillery",
+  "summary_ko": "1843년 윌리엄 매시슨이 하이랜드 테인에 세운 증류소다. 높이 8m로 스코틀랜드에서 가장 키가 큰 증류기를 쓰며, 주로 버번 캐스크에서 숙성한다. 2004년부터 LVMH 계열이다.",
+  "founded": "1843",
+  "region": "스코틀랜드 하이랜드",
+  "owner": "LVMH (The Glenmorangie Company)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "맥캘란",
+  "aliases": [
+   "맥캘란",
+   "macallan"
+  ],
+  "wiki_title": "The Macallan distillery",
+  "url": "https://en.wikipedia.org/wiki/The_Macallan_distillery",
+  "summary_ko": "1824년 알렉산더 리드가 스페이사이드 크레이겔라키에 세운 증류소다. 원래 셰리 캐스크로만 숙성했고 2004년부터 버번 캐스크도 함께 쓴다. 1926년 빈티지가 경매 최고가 기록을 세운 적이 있으며 에드링턴이 소유한다.",
+  "founded": "1824",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Edrington",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "와일드터키",
+  "aliases": [
+   "와일드터키"
+  ],
+  "wiki_title": "Wild Turkey (bourbon)",
+  "url": "https://en.wikipedia.org/wiki/Wild_Turkey_(bourbon)",
+  "summary_ko": "1940년 선보인 켄터키 로렌스버그의 스트레이트 버번 브랜드다. 대표 제품으로 와일드 터키 101과 러셀스 리저브, 레어 브리드가 있다. 2009년 캄파리 그룹이 증류소와 브랜드를 인수했다.",
+  "founded": "1940",
+  "region": "미국 켄터키",
+  "owner": "Campari Group",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "짐빔",
+  "aliases": [
+   "짐빔"
+  ],
+  "wiki_title": "Jim Beam",
+  "url": "https://en.wikipedia.org/wiki/Jim_Beam",
+  "summary_ko": "1795년 제이컵 빔이 첫 위스키를 판 데서 시작된 켄터키 버번 브랜드로, 빔 가문이 7대에 걸쳐 생산에 참여했다. 2014년 산토리 계열로 편입됐다.",
+  "founded": "1795",
+  "region": "미국 켄터키",
+  "owner": "Suntory Global Spirits",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌드로낙",
+  "aliases": [
+   "글렌드로낙",
+   "glendronach"
+  ],
+  "wiki_title": "GlenDronach distillery",
+  "url": "https://en.wikipedia.org/wiki/Glendronach_distillery",
+  "summary_ko": "1826년 애버딘셔 헌틀리 인근 포그에 세워진 하이랜드 증류소다. 핵심 제품군은 주로 올로로소와 PX 셰리 캐스크에서 숙성한다. 2016년 브라운포맨이 인수했다.",
+  "founded": "1826",
+  "region": "스코틀랜드 하이랜드",
+  "owner": "Brown-Forman",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "메이커스마크",
+  "aliases": [
+   "메이커스",
+   "메이커스마크",
+   "makers",
+   "maker's"
+  ],
+  "wiki_title": "Maker's Mark",
+  "url": "https://en.wikipedia.org/wiki/Maker%27s_Mark",
+  "summary_ko": "1954년 빌 새뮤얼스 시니어가 켄터키 로레토에서 생산을 시작한 버번이다. 호밀 대신 밀을 넣은 매시빌과 빨간 왁스 봉인이 특징이다. 현재 산토리 글로벌 스피리츠가 소유한다.",
+  "founded": "1954",
+  "region": "미국 켄터키",
+  "owner": "Suntory Global Spirits",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "우드포드리저브",
+  "aliases": [
+   "우드포드",
+   "우드포드리저브",
+   "woodford"
+  ],
+  "wiki_title": "Woodford Reserve",
+  "url": "https://en.wikipedia.org/wiki/Woodford_Reserve",
+  "summary_ko": "1996년 출시된 켄터키 우드포드 카운티의 스몰 배치 버번 브랜드다. 구리 팟 스틸과 칼럼 스틸 원액을 함께 쓰며, 1812년부터 증류가 이뤄진 부지의 건물은 국가 사적으로 지정됐다. 브라운포맨이 소유한다.",
+  "founded": "1996",
+  "region": "미국 켄터키",
+  "owner": "Brown-Forman",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "하이랜드파크",
+  "aliases": [
+   "하이랜드파크",
+   "하일랜드파크",
+   "highland park"
+  ],
+  "wiki_title": "Highland Park distillery",
+  "url": "https://en.wikipedia.org/wiki/Highland_Park_distillery",
+  "summary_ko": "1798년 오크니 제도 커크월에 세워진 증류소로, 싱글 몰트 스카치 증류소 중 가장 북쪽에 있다. 헤더 함량이 높은 현지 피트를 쓰고 셰리 캐스크에서 숙성한다. 1979년부터 에드링턴이 소유한다.",
+  "founded": "1798",
+  "region": "스코틀랜드 아일랜즈(오크니)",
+  "owner": "Edrington",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "아드벡",
+  "aliases": [
+   "아드벡",
+   "ardbeg"
+  ],
+  "wiki_title": "Ardbeg distillery",
+  "url": "https://en.wikipedia.org/wiki/Ardbeg_distillery",
+  "summary_ko": "1815년 상업 생산을 시작한 아일라 남부 해안의 증류소로, 피트 향이 매우 강한 싱글 몰트를 만든다. 핵심 제품으로 텐, 우가달, 코리브레칸 등이 있다. 2004년부터 LVMH 계열이다.",
+  "founded": "1815",
+  "region": "스코틀랜드 아일라",
+  "owner": "LVMH",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "오켄토션",
+  "aliases": [
+   "오켄토션",
+   "auchentoshan"
+  ],
+  "wiki_title": "Auchentoshan distillery",
+  "url": "https://en.wikipedia.org/wiki/Auchentoshan_distillery",
+  "summary_ko": "1823년 클라이드뱅크 외곽 달뮤어에 세워진 로우랜드 증류소다. 스코틀랜드에서는 드물게 3회 증류 방식을 쓰며 '글래스고의 몰트 위스키'로 불린다. 현재 산토리 글로벌 스피리츠가 소유한다.",
+  "founded": "1823",
+  "region": "스코틀랜드 로우랜드",
+  "owner": "Suntory Global Spirits",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "몰트락",
+  "aliases": [
+   "몰트락",
+   "mortlach"
+  ],
+  "wiki_title": "Mortlach distillery",
+  "url": "https://en.wikipedia.org/wiki/Mortlach_distillery",
+  "summary_ko": "1823년 제임스 핀들레이터가 세운 더프타운 최초의 합법 증류소다. 독자적인 '2.81회 증류' 방식으로 알려져 있고 조니워커 블렌드의 핵심 원액으로 쓰인다. 디아지오가 소유한다.",
+  "founded": "1823",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Diageo",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "스프링뱅크",
+  "aliases": [
+   "스프링뱅크",
+   "springbank"
+  ],
+  "wiki_title": "Springbank (distillery)",
+  "url": "https://en.wikipedia.org/wiki/Springbank_distillery",
+  "summary_ko": "1828년 캠벨타운에 세워진 가족 경영 증류소로, 몰팅부터 병입까지 전 공정을 증류소 안에서 하는 것으로 알려져 있다. 스프링뱅크 외에 헤이즐번과 롱로우도 생산한다. J&A 미첼이 소유한다.",
+  "founded": "1828",
+  "region": "스코틀랜드 캠벨타운",
+  "owner": "J & A Mitchell & Company",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "탈리스커",
+  "aliases": [
+   "탈리스커",
+   "talisker"
+  ],
+  "wiki_title": "Talisker distillery",
+  "url": "https://en.wikipedia.org/wiki/Talisker_distillery",
+  "summary_ko": "1830년 맥애스킬 형제가 스카이섬 카보스트에 세운 증류소다. 중간 수준의 피트 몰트와 웜텁 응축기를 쓴다. 디아지오가 소유한다.",
+  "founded": "1830",
+  "region": "스코틀랜드 아일랜즈(스카이)",
+  "owner": "Diageo",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "레드브레스트",
+  "aliases": [
+   "레드브레스트",
+   "redbreast"
+  ],
+  "wiki_title": "Redbreast (whiskey)",
+  "url": "https://en.wikipedia.org/wiki/Redbreast_(whiskey)",
+  "summary_ko": "1903년경 처음 나온 아일랜드 싱글 팟 스틸 위스키로, 몰트와 비발아 보리를 섞어 만든다. 1971년부터 코크주 미들턴에서 생산된다. 페르노리카 산하 아이리시 디스틸러스가 소유한다.",
+  "founded": "1903",
+  "region": "아일랜드 코크",
+  "owner": "Irish Distillers (Pernod Ricard)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "라가불린",
+  "aliases": [
+   "라가불린",
+   "lagavulin"
+  ],
+  "wiki_title": "Lagavulin distillery",
+  "url": "https://en.wikipedia.org/wiki/Lagavulin_distillery",
+  "summary_ko": "1816년 아일라 남부 해안 라가불린 마을에 세워진 증류소다. 서양배 모양 팟 스틸로 천천히 증류하며, 대표 제품은 16년이다. 디아지오가 소유한다.",
+  "founded": "1816",
+  "region": "스코틀랜드 아일라",
+  "owner": "Diageo",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "쿨일라",
+  "aliases": [
+   "쿨일라",
+   "caol ila"
+  ],
+  "wiki_title": "Caol Ila",
+  "url": "https://en.wikipedia.org/wiki/Caol_Ila_distillery",
+  "summary_ko": "1846년 헥터 헨더슨이 아일라 포트애스케이그 인근에 세운 증류소다. 생산량의 약 95%가 조니워커 블랙 라벨 등 블렌드에 쓰인다. 디아지오가 소유한다.",
+  "founded": "1846",
+  "region": "스코틀랜드 아일라",
+  "owner": "Diageo",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "제임슨",
+  "aliases": [
+   "제임슨",
+   "jameson"
+  ],
+  "wiki_title": "Jameson Irish Whiskey",
+  "url": "https://en.wikipedia.org/wiki/Jameson_Irish_Whiskey",
+  "summary_ko": "1780년 존 제임슨이 더블린에 세운 증류소에서 시작된 블렌디드 아이리시 위스키다. 현재 코크주 미들턴에서 증류한다. 1988년부터 페르노리카 계열이다.",
+  "founded": "1780",
+  "region": "아일랜드 코크",
+  "owner": "Irish Distillers (Pernod Ricard)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "버팔로트레이스",
+  "aliases": [
+   "버팔로"
+  ],
+  "wiki_title": "Buffalo Trace Distillery",
+  "url": "https://en.wikipedia.org/wiki/Buffalo_Trace_Distillery",
+  "summary_ko": "켄터키 프랭크퍼트에 있는 증류소로, 부지에서 1775년부터 증류했다는 기록이 있다. 금주법 시대에도 의료용 위스키를 만들며 가동을 이어갔다. 1992년부터 사제락 컴퍼니가 소유한다.",
+  "founded": "1775",
+  "region": "미국 켄터키",
+  "owner": "Sazerac Company",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "아벨라워",
+  "aliases": [
+   "아벨라워",
+   "aberlour"
+  ],
+  "wiki_title": "Aberlour distillery",
+  "url": "https://en.wikipedia.org/wiki/Aberlour_distillery",
+  "summary_ko": "1879년 제임스 플레밍이 스페이사이드 아벨라워에 세운 증류소다. 주로 버번 캐스크에서 숙성하며 일부는 셰리 캐스크로 마무리하고, 캐스크 스트렝스 제품 아부나흐가 있다. 페르노리카 산하 시바스 브라더스가 소유한다.",
+  "founded": "1879",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Chivas Brothers (Pernod Ricard)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "야마자키",
+  "aliases": [
+   "야마자키"
+  ],
+  "wiki_title": "Yamazaki distillery",
+  "url": "https://en.wikipedia.org/wiki/Yamazaki_distillery",
+  "summary_ko": "1923년 도리이 신지로가 오사카부 시마모토에 연 일본 최초의 몰트 위스키 증류소다. 1929년 첫 위스키 '시로후다'를 출시했다. 산토리가 소유한다.",
+  "founded": "1923",
+  "region": "일본 오사카",
+  "owner": "Suntory",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "히비키",
+  "aliases": [
+   "히비키"
+  ],
+  "wiki_title": "Hibiki (whisky)",
+  "url": "https://en.wikipedia.org/wiki/Hibiki_(whisky)",
+  "summary_ko": "1989년 산토리가 출시한 일본 프리미엄 블렌디드 위스키다. 야마자키, 하쿠슈, 치타의 몰트·그레인 원액을 섞으며, 영화 '사랑도 통역이 되나요?'에 등장했다. 산토리 글로벌 스피리츠가 소유한다.",
+  "founded": "1989",
+  "region": "일본",
+  "owner": "Suntory Global Spirits",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "몽키숄더",
+  "aliases": [
+   "몽키숄더",
+   "monkey shoulder"
+  ],
+  "wiki_title": "Monkey Shoulder",
+  "url": "https://en.wikipedia.org/wiki/Monkey_Shoulder",
+  "summary_ko": "2003년 출시된 스코틀랜드 블렌디드 몰트 위스키로, 칵테일용으로 주로 만들어졌다. 원래 발베니, 글렌피딕, 키닌비 원액을 섞었다. 이름은 손으로 몰트를 뒤집던 작업자의 어깨 부상에서 왔다. 윌리엄 그랜트 앤 선즈 제품이다.",
+  "founded": "2003",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "William Grant & Sons",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "암룻",
+  "aliases": [
+   "암룻",
+   "amrut"
+  ],
+  "wiki_title": "Amrut Distilleries Ltd",
+  "url": "https://en.wikipedia.org/wiki/Amrut_Distilleries",
+  "summary_ko": "1948년 J.N. 라다크리슈나 라오 자그달레가 인도 벵갈루루에 세운 주류 회사다. 인도 최초의 싱글 몰트 위스키를 만든 곳으로 꼽히며, 더운 기후 탓에 숙성이 빠르다. N.R. 자그달레 그룹 계열이다.",
+  "founded": "1948",
+  "region": "인도 벵갈루루",
+  "owner": "N.R. Jagdale Group",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "에버펠디",
+  "aliases": [
+   "에버펠디",
+   "aberfeldy"
+  ],
+  "wiki_title": "Aberfeldy Distillery",
+  "url": "https://en.wikipedia.org/wiki/Aberfeldy_distillery",
+  "summary_ko": "1896년 존 듀어 앤 선즈가 퍼스셔 에버펠디에 세운 하이랜드 증류소다. 듀어스 블렌디드 위스키의 가장 큰 몰트 원액이다. 현재 바카디 산하 존 듀어 앤 선즈가 소유한다.",
+  "founded": "1896",
+  "region": "스코틀랜드 하이랜드",
+  "owner": "John Dewar & Sons (Bacardi)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "밀크앤허니",
+  "aliases": [
+   "밀크앤허니"
+  ],
+  "wiki_title": "The Milk & Honey Distillery",
+  "url": "https://en.wikipedia.org/wiki/The_Milk_%26_Honey_Distillery",
+  "summary_ko": "텔아비브 남쪽에 자리한 이스라엘의 싱글몰트 위스키 증류소다. 2012년 설립 준비를 시작해 2013년부터 가동했으며, 2017년 첫 싱글몰트를 내놓았다. 더운 기후 덕에 숙성이 빠르게 진행되며 모든 제품이 코셔 인증을 받았다.",
+  "founded": "2012",
+  "region": "이스라엘 텔아비브",
+  "owner": "GKI Group",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "고든앤맥패일",
+  "aliases": [
+   "고든앤맥패일"
+  ],
+  "wiki_title": "Gordon & MacPhail",
+  "url": "https://en.wikipedia.org/wiki/Gordon_%26_MacPhail",
+  "summary_ko": "1895년 스코틀랜드 엘긴에서 시작된 독립 병입업체 겸 증류업체다. 어커트 가문이 운영하는 가족 기업으로, 여러 증류소의 원액을 자체 라벨로 병입해 왔다. 1993년 벤로막 증류소를 인수했고 2022년에는 케언 증류소를 새로 가동했다.",
+  "founded": "1895",
+  "region": "스코틀랜드 엘긴(스페이사이드)",
+  "owner": "어커트 가문(Urquhart family)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "1792",
+  "aliases": [
+   "1792"
+  ],
+  "wiki_title": "1792 Bourbon",
+  "url": "https://en.wikipedia.org/wiki/1792_Bourbon",
+  "summary_ko": "미국 켄터키주 바즈타운의 바턴 1792 증류소에서 2002년부터 만드는 스몰배치 버번이다. 이름은 켄터키가 주로 승격된 1792년에서 따왔다. 처음엔 '리지우드 리저브 1792'로 출시됐으나 상표 분쟁을 거쳐 지금의 이름이 됐다.",
+  "founded": "2002",
+  "region": "미국 켄터키 바즈타운",
+  "owner": "Sazerac Company",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "올트모어",
+  "aliases": [
+   "올트모어",
+   "aultmore"
+  ],
+  "wiki_title": "Aultmore distillery",
+  "url": "https://en.wikipedia.org/wiki/Aultmore_distillery",
+  "summary_ko": "1895년 알렉산더 에드워드가 키스 인근에 세운 스페이사이드 증류소다. 이름은 게일어로 '큰 개울'을 뜻한다. 현재 바카디 산하 존 듀어 앤 선즈가 소유하며, 공식 싱글몰트 병입은 2004년에 처음 나왔다.",
+  "founded": "1895",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "John Dewar & Sons (Bacardi)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "산토리",
+  "aliases": [
+   "산토리",
+   "suntory",
+   "치타",
+   "toki",
+   "토키"
+  ],
+  "wiki_title": "Suntory",
+  "url": "https://en.wikipedia.org/wiki/Suntory",
+  "summary_ko": "1899년 도리이 신지로가 오사카에서 와인 수입상으로 시작한 일본 주류 기업이다. 1923년 야마자키 증류소를 세워 일본 몰트위스키 생산을 열었다. 야마자키·하쿠슈·히비키 등을 보유하며, 2014년 빔을 인수해 버번과 스카치 브랜드로도 영역을 넓혔다.",
+  "founded": "1899",
+  "region": "일본 오사카",
+  "owner": "",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌글라사",
+  "aliases": [
+   "글렌글라사",
+   "glenglassaugh"
+  ],
+  "wiki_title": "Glenglassaugh distillery",
+  "url": "https://en.wikipedia.org/wiki/Glenglassaugh_distillery",
+  "summary_ko": "1875년 제임스 모어와 조카들이 스코틀랜드 북동부 해안 샌드엔드 인근에 세운 하이랜드 증류소다. 1986년부터 오래 가동을 멈췄다가 2008년 다시 문을 열었다. 2016년 벤리악 회사 인수를 통해 브라운포맨 소유가 됐다.",
+  "founded": "1875",
+  "region": "스코틀랜드 하이랜드",
+  "owner": "Brown-Forman",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "웰러",
+  "aliases": [
+   "웰러",
+   "웰러sr,",
+   "윌리엄",
+   "william"
+  ],
+  "wiki_title": "W. L. Weller",
+  "url": "https://en.wikipedia.org/wiki/W._L._Weller",
+  "summary_ko": "켄터키 초기 증류업자 윌리엄 라루 웰러의 이름을 딴 버번이다. 보조 곡물로 호밀 대신 밀을 쓰는 '휘티드' 방식이 특징이다. 1999년부터 사제락 컴퍼니가 브랜드를 소유하며, 프랭크퍼트의 버팔로 트레이스 증류소에서 생산한다.",
+  "founded": "1849",
+  "region": "미국 켄터키",
+  "owner": "Sazerac Company",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "올드풀트니",
+  "aliases": [
+   "올드풀트니",
+   "올드풀티니",
+   "old pulteney"
+  ],
+  "wiki_title": "Old Pulteney distillery",
+  "url": "https://en.wikipedia.org/wiki/Old_Pulteney_distillery",
+  "summary_ko": "1826년 스코틀랜드 북부 케이스네스의 항구 마을 윅(풀트니타운)에 세워진 증류소다. 초기에는 보리와 위스키를 주로 배로 실어 날랐다. 1930년 지역 금주 조치로 문을 닫았다가 1951년 재가동했고, 1995년부터 인버하우스 디스틸러스가 소유한다.",
+  "founded": "1826",
+  "region": "스코틀랜드 하이랜드(윅)",
+  "owner": "Inver House Distillers",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "탐두",
+  "aliases": [
+   "탐두",
+   "tamdhu"
+  ],
+  "wiki_title": "Tamdhu distillery",
+  "url": "https://en.wikipedia.org/wiki/Tamdhu_distillery",
+  "summary_ko": "1896년 블렌더들이 세운 스페이사이드 녹칸도의 증류소로, 이듬해 첫 증류를 했다. 2010년 가동을 멈췄으나 2011년 이안 맥클라우드 디스틸러스가 인수해 2013년 재가동했다. 대표 제품은 셰리 캐스크에서만 숙성한 10년 싱글몰트다.",
+  "founded": "1896",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Ian Macleod Distillers",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "레벨",
+  "aliases": [
+   "레벨"
+  ],
+  "wiki_title": "Rebel (bourbon)",
+  "url": "https://en.wikipedia.org/wiki/Rebel_(bourbon)",
+  "summary_ko": "1930년대 스티첼-웰러 증류소에서 만들어진 켄터키 스트레이트 버번 브랜드다. 밀을 넣은 매시빌을 쓰며, 2020년 '레벨 옐'에서 '레벨'로 이름을 줄였다. 현재 MGP 인그리디언츠 소유로 바즈타운의 럭스 로우 증류소에서 생산된다.",
+  "founded": "1936",
+  "region": "미국 켄터키",
+  "owner": "MGP Ingredients",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "부나하벤",
+  "aliases": [
+   "부나하벤",
+   "bunnahabhain"
+  ],
+  "wiki_title": "Bunnahabhain distillery",
+  "url": "https://en.wikipedia.org/wiki/Bunnahabhain_distillery",
+  "summary_ko": "1881년 아일라섬 포트 애스케이그 인근에 세워진 증류소다. 이름은 게일어로 '강 어귀'를 뜻하며, 직원 주거를 위해 같은 이름의 마을이 조성됐다. 아일라 위스키 중 비교적 순한 편으로 알려졌고, 현재 하이네켄 산하 디스텔 그룹이 소유한다.",
+  "founded": "1881",
+  "region": "스코틀랜드 아일라",
+  "owner": "Distell Group (Heineken)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "탐나불린",
+  "aliases": [
+   "탐나불린",
+   "tamnavulin"
+  ],
+  "wiki_title": "Tamnavulin distillery",
+  "url": "https://en.wikipedia.org/wiki/Tamnavulin_distillery",
+  "summary_ko": "블렌더들의 수요에 맞춰 1966년 밴프셔 토마불린에 세워진 증류소다. 1995년 가동을 중단했다가 2007년 재가동했다. 화이트 앤 맥케이 소유로 주로 블렌디드용 원액을 공급하며, 2016년 설립 50주년에 싱글몰트로 재출시됐다.",
+  "founded": "1966",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Whyte & Mackay",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "린도어스",
+  "aliases": [
+   "린도어스",
+   "lindores"
+  ],
+  "wiki_title": "Lindores Abbey distillery",
+  "url": "https://en.wikipedia.org/wiki/Lindores_Abbey_distillery",
+  "summary_ko": "스코틀랜드 파이프주 뉴버그의 린도어스 수도원 맞은편에 있는 증류소로, 2017년 12월 증류를 시작했다. 로우랜드 지역에 속하며 2021년 첫 싱글 몰트를 내놓았다. 숙성 기간 동안에는 오래 숙성할 필요가 없는 아쿠아 비테를 판매했다.",
+  "founded": "2017",
+  "region": "스코틀랜드 로우랜드",
+  "owner": "",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "로얄브라클라",
+  "aliases": [
+   "로얄브라클라",
+   "royal brackla"
+  ],
+  "wiki_title": "Royal Brackla distillery",
+  "url": "https://en.wikipedia.org/wiki/Royal_Brackla_distillery",
+  "summary_ko": "1812년 윌리엄 프레이저 대위가 네언 인근 코더 영지에 세운 하이랜드 증류소다. 1833년 윌리엄 4세에게서 왕실 인증을 받아 이름에 '로열'이 붙었다. 1998년부터 바카디 계열 존 듀어 앤 선즈가 운영한다.",
+  "founded": "1812",
+  "region": "스코틀랜드 하이랜드",
+  "owner": "John Dewar & Sons (Bacardi)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "글렌모레이",
+  "aliases": [
+   "글렌모레이",
+   "glen moray"
+  ],
+  "wiki_title": "Glen Moray distillery",
+  "url": "https://en.wikipedia.org/wiki/Glen_Moray_distillery",
+  "summary_ko": "엘긴의 로시강 변에 있는 스페이사이드 증류소로, 양조장 건물을 개조해 1897년 생산을 시작했다. 글렌모렌지 소유주와 LVMH를 거쳐 2008년부터 프랑스 기업 라 마르티니케즈가 소유하고 있다. 생산 원액 일부는 커티삭 등 블렌디드에도 쓰인다.",
+  "founded": "1897",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "La Martiniquaise",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "발블레어",
+  "aliases": [
+   "발블레어",
+   "balblair"
+  ],
+  "wiki_title": "Balblair distillery",
+  "url": "https://en.wikipedia.org/wiki/Balblair_distillery",
+  "summary_ko": "1790년 존 로스가 로스셔 에더턴에 세운 하이랜드 증류소다. 1996년부터 인버 하우스 디스틸러스가 소유하고 있다. 2019년까지는 빈티지 표기로 출시했으나 이후 숙성 연수 표기 제품 위주로 바꿨다.",
+  "founded": "1790",
+  "region": "스코틀랜드 하이랜드",
+  "owner": "Inver House Distillers",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "레이크",
+  "aliases": [
+   "레이크",
+   "lakes"
+  ],
+  "wiki_title": "The Lakes Distillery",
+  "url": "https://en.wikipedia.org/wiki/The_Lakes_Distillery",
+  "summary_ko": "2014년 잉글랜드 컴브리아 레이크 디스트릭트의 배선스웨이트 호수 근처에 문을 연 증류소다. 1850년대 농장을 개조해 지었으며 위스키와 진, 보드카를 만든다. 2024년 영국 와인 회사 나이팀버가 인수했다.",
+  "founded": "2014",
+  "region": "잉글랜드 컴브리아",
+  "owner": "Nyetimber",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "캐퍼도닉",
+  "aliases": [
+   "캐퍼도닉",
+   "caperdonich"
+  ],
+  "wiki_title": "Caperdonich distillery",
+  "url": "https://en.wikipedia.org/wiki/Caperdonich_distillery",
+  "summary_ko": "1898년 글렌 그랜트 설립자가 로스에 '글렌 그랜트 2호'로 세운 스페이사이드 증류소다. 1965년 재건 때 캐퍼도닉으로 이름을 바꿨고 2002년 문을 닫은 뒤 2010년 철거됐다. 원액은 시바스 리갈 블렌드 일부에 쓰였다.",
+  "founded": "1898",
+  "region": "스코틀랜드 스페이사이드",
+  "owner": "Chivas Brothers (Pernod Ricard)",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "폴존",
+  "aliases": [
+   "폴",
+   "폴존",
+   "paul"
+  ],
+  "wiki_title": "Paul John (whisky)",
+  "url": "https://en.wikipedia.org/wiki/Paul_John_(whisky)",
+  "summary_ko": "벵갈루루에 본사를 둔 존 디스틸러리스가 만드는 인도 싱글 몰트 위스키로, 2012년 런던에서 처음 선보였다. 증류와 숙성은 고아에서 이뤄지며 인도산 육조 보리를 쓴다. 더운 기후 탓에 숙성이 빠르고 증발량이 많다.",
+  "founded": "2012",
+  "region": "인도 고아",
+  "owner": "John Distilleries",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "컴파스박스",
+  "aliases": [
+   "컴파스",
+   "compass"
+  ],
+  "wiki_title": "Compass Box",
+  "url": "https://en.wikipedia.org/wiki/Compass_Box",
+  "summary_ko": "2000년 조니워커 마케팅 이사 출신 존 글레이저가 런던에서 세운 위스키 회사다. 여러 스코틀랜드 증류소의 원액을 골라 블렌딩하고 추가 숙성해 블렌디드 몰트·스카치 등을 내놓는다. 2015년 원액 정보 공개를 요구하는 투명성 캠페인을 벌였다.",
+  "founded": "2000",
+  "region": "영국 런던",
+  "owner": "",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "이글레어",
+  "aliases": [
+   "이글레어"
+  ],
+  "wiki_title": "Eagle Rare",
+  "url": "https://en.wikipedia.org/wiki/Eagle_Rare",
+  "summary_ko": "1975년 시그램이 선보인 켄터키 스트레이트 버번 브랜드다. 1989년 사제락이 인수했으며 현재 켄터키 프랭크퍼트의 버팔로 트레이스 증류소에서 만든다. 대표 제품은 10년 숙성이며 17년 숙성은 앤티크 컬렉션에 포함된다.",
+  "founded": "1975",
+  "region": "미국 켄터키",
+  "owner": "Sazerac Company",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "key": "딘스톤",
+  "aliases": [
+   "딘스톤",
+   "deanston"
+  ],
+  "wiki_title": "Deanston distillery",
+  "url": "https://en.wikipedia.org/wiki/Deanston_distillery",
+  "summary_ko": "퍼스셔 딘스톤의 테이스강 변에 있는 하이랜드 증류소로, 1785년 지어진 면방적 공장을 1960년대에 개조했다. 1990년 번 스튜어트 디스틸러스가 인수했고, 현재는 CVH 스피리츠 소속이다. 2000년부터 유기농 위스키도 생산하며 수력 발전 설비를 갖췄다.",
+  "founded": "1965",
+  "region": "스코틀랜드 하이랜드",
+  "owner": "CVH Spirits",
+  "license": "CC BY-SA 4.0"
+ }
+]

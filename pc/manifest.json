@@ -1,0 +1,12 @@
+{
+ "made_at": "2026-11-06T17:44:49",
+ "files": {
+  "site/privacy.html": "27099891c15ef2e6c83f978ec38949640d2e6434ebb1354c6724d0fb1178f9f1",
+  "site/terms.html": "85f8d9c12a14f38ffce6f074c4e21efc45ebe70c016c3dbbdeb43ef7c9f5b9fd",
+  "data/official_tags.json": "b1b89d640f79237b7187413e4cf00a37b1a74e8c56c2cc5ff8b9cca95b73fc10",
+  "scripts/distillery_cards.json": "fc69ae710e30833a98ac7776aa7e75eec3f0dc8accb8ad43038d7324aaec97c9"
+ },
+ "tables": {
+  "flavor_profile": "89647c0b63dec2be367f64b4bf09fbf10774ad4271a269dafaf157fd4f9cf8f3"
+ }
+}
